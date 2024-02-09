@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    gap: 20px;
+}
+
+ul > li {
+    list-style-type: none;
+}
+
+.contacts{
+    font-family: sans-serif;
+}
